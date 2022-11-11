@@ -1,5 +1,6 @@
 
-# codember-js
+# codember-js <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" width="24" height="24">
+
 
 ```
                   __                         __
@@ -10,7 +11,7 @@
 \ \____\\ \____/\ \___,_\\ \____\\ \_\ \_\ \_\ \ \_,__/\ \____\ \ \_\
  \/____/ \/___/  \/__,_ / \/____/ \/_/\/_/\/_/  \/___/  \/____/  \/_/
 			
-¡Supera todos los retos de programación! By @midudev
+¡Supera todos los retos de programación! By @midudev 
 ``` 
 
   
