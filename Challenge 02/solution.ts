@@ -1,7 +1,7 @@
-const input =
+const input: string =
   "11610497110107115 102111114 11210897121105110103 9911110010110998101114 11210810197115101 11510497114101"
-const words = input.split(" ")
-const solution = words.map((word) => ASCIItoString(word)).join(" ")
+const words: Array<string> = input.split(" ")
+const solution: string = words.map((word) => ASCIItoString(word)).join(" ")
 console.log("submit " + solution)
 
 function ASCIItoString(word: string) {
