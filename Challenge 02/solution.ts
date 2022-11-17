@@ -4,7 +4,7 @@ const words = input.split(" ")
 const solution = words.map((word) => ASCIItoString(word)).join(" ")
 console.log("submit " + solution)
 
-function ASCIItoString(word: String) {
+function ASCIItoString(word: string) {
   let pointer: number = 0
   let wordChars: string[] = []
 
@@ -22,7 +22,7 @@ function ASCIItoString(word: String) {
   }
 
   return wordChars
-    .map((char: String) => {
+    .map((char: string) => {
       return String.fromCharCode(Number(char))
     })
     .join("")
