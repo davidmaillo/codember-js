@@ -11,5 +11,5 @@ Comparto mis soluciones en JavaScript para los retos de [Codember.dev](https://c
 
 ### Ejecución
 
-🌚 Puedes ver el resultado si vas a la carpeta del reto y escribes: `node solution` en la terminal.
-💡 Versión en TypeScript: `ts-node solution.ts`
+- 🌚 Puedes ver el resultado si vas a la carpeta del reto y escribes: `node solution` en la terminal.
+- 💡 Versión en TypeScript: `ts-node solution.ts`
