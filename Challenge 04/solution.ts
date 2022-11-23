@@ -1,5 +1,5 @@
 const getValidPasswords = () => {
-  const START = 11095
+  const START = 11098
   const END = 98123
   let validPasswords: Array<number> = []
 
@@ -7,7 +7,7 @@ const getValidPasswords = () => {
     let digits: Array<string> = String(i).split("")
     let fivesCount: number = 0
 
-    digits.forEach((d) => {
+    digits.forEach((d: string) => {
       if (d === "5") fivesCount++
     })
 
